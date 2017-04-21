@@ -1,4 +1,5 @@
-# UT-KBRIN-R-Workshop-2017 (from Dr. Katie Thompson)
+# UT-KBRIN-R-Workshop-2017 
+(from Dr. Katie Thompson)
 
 Welcome!
 Part 1 (12-3pm): Introduction to Data Analysis with R
